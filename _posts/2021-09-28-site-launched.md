@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "An Image"
+title: "A Beautiful car"
 date: 2021-09-28
 ---
 
