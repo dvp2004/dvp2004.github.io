@@ -7,7 +7,6 @@ We have used different layouts for our *default pages* and our *posts*. My **_po
   * A Beautiful Car
   * Site Launched
 
-
-(namely: "A Beautiful Car" and "Site Launched") whose links are displayed once you click on the Blog heading.
+The links to these are displayed once you click on the Blog heading.
 
 
